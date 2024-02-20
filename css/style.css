@@ -1,0 +1,29 @@
+body{
+    background-color: aqua;
+    font-family: "open sans","Helvetica Neue", Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+td{
+    vertical-align: text-top;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+div{
+    color: blueviolet;
+    height: 80%;
+    height: 80%;
+    padding: 30px 20px 40px 50px;
+    margin: 20ps;
+    border: 3px solid darkorchid;
+    background-color: blue;
+    border-radius: 30px;
+    border: solid 5px teal;
+    border-radius: 10px 20px 15px 40px;
+    box-shadow: 2px 3px 5px 4px;
+
+}
